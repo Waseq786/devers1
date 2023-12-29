@@ -7,10 +7,8 @@ const Articles1 = () => {
                 <div className='mt-[160px] mx-2 lg:mt-[150px] lg:w-screen text-justify'>
 
 
-                    <div className='absolute -z-10'>
-                        <img src="/Arti01.jpg" alt="..." className='lg:h-[1380px] lg:w-screen w-[98%] h-[2600px] rounded-2xl'/>
-                    </div>
-                    <div className='bg-black bg-opacity-50 lg:h-[1380px] lg:w-[100%] w-[98%] h-[2600px] rounded-2xl'>
+
+                    <div className='bg-gradient-to-r from-green-600 to-emerald-700 lg:h-[1380px] lg:w-screen w-[98%] h-[2600px] rounded-2xl'>
                         <div className='text-[25px] lg:text-[30px] font-bold text-center underline text-white pt-6'>Article of Web Development
                         </div><br />
                         <div className='lg:text-[17px] text-[15px] text-white mx-4'>
@@ -60,10 +58,7 @@ const Articles1 = () => {
                         </div>
                     </div>
 
-                    <div className='absolute -z-10'>
-                        <img src="/Arti01.jpg" alt="" className='lg:h-[1380px] lg:w-screen w-[98%] h-[2850px] rounded-2xl mt-16 ' />
-                    </div>
-                    <div className='bg-black bg-opacity-40 lg:h-[1380px] lg:w-[100%] w-[98%] h-[2850px] rounded-2xl'>
+                    <div className='bg-gradient-to-r from-green-600 to-emerald-700 lg:h-[1380px] lg:w-screen w-[98%] h-[2600px] rounded-2xl'>
                         <div className='text-[25px]  lg:text-[30px] font-bold text-xl text-center underline mt-16 text-white pt-8'>Article of Web Designing
                         </div><br />
                         <div className='text-[17px] text-white mx-4 '>
@@ -113,57 +108,54 @@ const Articles1 = () => {
                         </div>
                     </div>
 
-                    <div className='absolute -z-10'>
-                        <img src="/Arti01.jpg" alt="" className='lg:h-[1380px] lg:w-screen w-[98%] h-[2850px] rounded-2xl mt-16 ' />
-                    </div>
-                    <div className='bg-black bg-opacity-40 lg:h-[1380px] lg:w-[100%] w-[98%] h-[2850px] rounded-2xl'>
-                    <div className='text-[25px]  lg:text-[30px] font-bold text-xl text-center underline mt-16  text-white pt-8 mx-4 lg:mx-0'>Unveiling the Magic of Graphic Design
-                    </div><br />
-                    <div className='text-[17px] mx-4 text-white'>
-                        <div className='font-bold text-xl mt-2'>Introduction:</div>
-                        In the realm of visual communication, graphic design stands as the enchanting force that transforms ideas into compelling visual narratives. This article delves into the multifaceted world of graphic design, exploring its fundamental principles, the evolution of design trends, and the transformative impact it has on shaping our perceptions and experiences in the digital age.
+                    <div className='bg-gradient-to-r from-green-600 to-emerald-700 lg:h-[1380px] lg:w-screen w-[98%] h-[2600px] rounded-2xl'>
+                        <div className='text-[25px]  lg:text-[30px] font-bold text-xl text-center underline mt-16  text-white pt-8 mx-4 lg:mx-0'>Unveiling the Magic of Graphic Design
+                        </div><br />
+                        <div className='text-[17px] mx-4 text-white'>
+                            <div className='font-bold text-xl mt-2'>Introduction:</div>
+                            In the realm of visual communication, graphic design stands as the enchanting force that transforms ideas into compelling visual narratives. This article delves into the multifaceted world of graphic design, exploring its fundamental principles, the evolution of design trends, and the transformative impact it has on shaping our perceptions and experiences in the digital age.
 
-                        <div className='font-bold text-xl mt-2'>I. The Essence of Graphic Design:</div>
+                            <div className='font-bold text-xl mt-2'>I. The Essence of Graphic Design:</div>
 
-                        <div className='font-bold text-xl mt-2'>Visual Communication:</div>
-                        At its core, graphic design is the art of visual communication. It involves the strategic arrangement of visual elements, such as images, typography, and color, to convey a message, evoke emotions, or communicate information.
+                            <div className='font-bold text-xl mt-2'>Visual Communication:</div>
+                            At its core, graphic design is the art of visual communication. It involves the strategic arrangement of visual elements, such as images, typography, and color, to convey a message, evoke emotions, or communicate information.
 
-                        <div className='font-bold text-xl mt-2'>Functionality and Aesthetics:</div>
-                        Graphic designers skillfully balance functionality and aesthetics. Designs must not only serve a practical purpose but also engage and captivate the audience through visual appeal. The marriage of form and function is the hallmark of successful graphic design.
+                            <div className='font-bold text-xl mt-2'>Functionality and Aesthetics:</div>
+                            Graphic designers skillfully balance functionality and aesthetics. Designs must not only serve a practical purpose but also engage and captivate the audience through visual appeal. The marriage of form and function is the hallmark of successful graphic design.
 
-                        <div className='font-bold text-xl mt-2'>II. Core Principles of Graphic Design:</div>
+                            <div className='font-bold text-xl mt-2'>II. Core Principles of Graphic Design:</div>
 
-                        <div className='font-bold text-xl mt-2'>Balance and Harmony:</div>
-                        Achieving visual equilibrium is crucial in graphic design. Whether symmetrical or asymmetrical, a well-balanced composition ensures that no single element overpowers the others, creating a harmonious visual experience.
+                            <div className='font-bold text-xl mt-2'>Balance and Harmony:</div>
+                            Achieving visual equilibrium is crucial in graphic design. Whether symmetrical or asymmetrical, a well-balanced composition ensures that no single element overpowers the others, creating a harmonious visual experience.
 
-                        <div className='font-bold text-xl mt-2'>Contrast and Emphasis:</div>
-                        Contrast adds dynamism to designs, drawing attention to key elements. Graphic designers use contrast in color, size, and shape to guide the viewer's focus and create a hierarchy of information.
+                            <div className='font-bold text-xl mt-2'>Contrast and Emphasis:</div>
+                            Contrast adds dynamism to designs, drawing attention to key elements. Graphic designers use contrast in color, size, and shape to guide the viewer's focus and create a hierarchy of information.
 
-                        <div className='font-bold text-xl mt-2'>Typography as a Design Element:</div>
-                        The choice of fonts and how text is arranged contribute significantly to the overall design. Typography not only conveys the written message but also serves as a visual element that adds character and style.
+                            <div className='font-bold text-xl mt-2'>Typography as a Design Element:</div>
+                            The choice of fonts and how text is arranged contribute significantly to the overall design. Typography not only conveys the written message but also serves as a visual element that adds character and style.
 
-                        <div className='font-bold text-xl mt-2'>III. Evolution of Design Trends:</div>
+                            <div className='font-bold text-xl mt-2'>III. Evolution of Design Trends:</div>
 
-                        <div className='font-bold text-xl mt-2'>Minimalism:</div>
-                        The minimalist design trend champions simplicity and clarity. Stripping away excess embellishments, minimalist designs focus on essential elements, creating clean and elegant visuals that resonate with modern aesthetics.
+                            <div className='font-bold text-xl mt-2'>Minimalism:</div>
+                            The minimalist design trend champions simplicity and clarity. Stripping away excess embellishments, minimalist designs focus on essential elements, creating clean and elegant visuals that resonate with modern aesthetics.
 
-                        <div className='font-bold text-xl mt-2'>Flat Design and Material Design:</div>
-                        Flat design, characterized by simplicity and minimal use of stylistic elements, gained popularity with the rise of mobile interfaces. Material design, on the other hand, introduces subtle shadows and depth for a more tactile experience.
+                            <div className='font-bold text-xl mt-2'>Flat Design and Material Design:</div>
+                            Flat design, characterized by simplicity and minimal use of stylistic elements, gained popularity with the rise of mobile interfaces. Material design, on the other hand, introduces subtle shadows and depth for a more tactile experience.
 
-                        <div className='font-bold text-xl mt-2'>Surreal and Abstract Trends:</div>
-                        In the quest for uniqueness, designers are increasingly embracing surreal and abstract design elements. This trend allows for creativity to flourish, pushing the boundaries of conventional design norms.
+                            <div className='font-bold text-xl mt-2'>Surreal and Abstract Trends:</div>
+                            In the quest for uniqueness, designers are increasingly embracing surreal and abstract design elements. This trend allows for creativity to flourish, pushing the boundaries of conventional design norms.
 
-                        <div className='font-bold text-xl mt-2'>IV. The Intersection of Art and Technology:</div>
+                            <div className='font-bold text-xl mt-2'>IV. The Intersection of Art and Technology:</div>
 
-                        <div className='font-bold text-xl mt-2'>Digital Tools and Software:</div>
-                        Graphic designers harness the power of digital tools and software to bring their visions to life. Applications like Adobe Creative Cloud have become the industry standard, enabling designers to create intricate designs with precision.
+                            <div className='font-bold text-xl mt-2'>Digital Tools and Software:</div>
+                            Graphic designers harness the power of digital tools and software to bring their visions to life. Applications like Adobe Creative Cloud have become the industry standard, enabling designers to create intricate designs with precision.
 
-                        <div className='font-bold text-xl mt-2'>Responsive and Interactive Design:</div>
-                        With the prevalence of diverse devices, graphic designers now focus on creating responsive and interactive designs. This ensures a consistent and engaging user experience across various platforms.
+                            <div className='font-bold text-xl mt-2'>Responsive and Interactive Design:</div>
+                            With the prevalence of diverse devices, graphic designers now focus on creating responsive and interactive designs. This ensures a consistent and engaging user experience across various platforms.
 
-                        <div className='font-bold text-xl mt-2'>Conclusion:</div>
-                        Graphic design is the invisible thread that weaves through our daily lives, shaping the way we perceive information, products, and brands. As technology advances and design trends evolve, the world of graphic design continues to be a dynamic and ever-changing landscape. The ability to blend artistic flair with strategic thinking allows graphic designers to wield visual alchemy, transforming concepts into captivating visual masterpieces that leave a lasting imprint on our collective consciousness.
-                    </div>
+                            <div className='font-bold text-xl mt-2'>Conclusion:</div>
+                            Graphic design is the invisible thread that weaves through our daily lives, shaping the way we perceive information, products, and brands. As technology advances and design trends evolve, the world of graphic design continues to be a dynamic and ever-changing landscape. The ability to blend artistic flair with strategic thinking allows graphic designers to wield visual alchemy, transforming concepts into captivating visual masterpieces that leave a lasting imprint on our collective consciousness.
+                        </div>
                     </div>
 
 
