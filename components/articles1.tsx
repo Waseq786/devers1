@@ -10,7 +10,7 @@ const Articles1 = () => {
                     <div className='absolute -z-10'>
                         <img src="/Arti01.jpg" alt="..." className='lg:h-[1380px] lg:w-screen w-[98%] h-[2600px] rounded-2xl'/>
                     </div>
-                    <div className='bg-black bg-opacity-50 lg:h-[1380px] lg:w-[1024px] w-[98%] h-[2600px] rounded-2xl'>
+                    <div className='bg-black bg-opacity-50 lg:h-[1380px] lg:w-screen w-[98%] h-[2600px] rounded-2xl'>
                         <div className='text-[25px] lg:text-[30px] font-bold text-center underline text-white pt-6'>Article of Web Development
                         </div><br />
                         <div className='lg:text-[17px] text-[15px] text-white mx-4'>
@@ -63,7 +63,7 @@ const Articles1 = () => {
                     <div className='absolute -z-10'>
                         <img src="/Arti01.jpg" alt="" className='lg:h-[1380px] lg:w-screen w-[98%] h-[2850px] rounded-2xl mt-16 ' />
                     </div>
-                    <div className='bg-black bg-opacity-40 lg:h-[1380px] lg:w-[1024px] w-[98%] h-[2850px] rounded-2xl'>
+                    <div className='bg-black bg-opacity-40 lg:h-[1380px] lg:w-screen w-[98%] h-[2850px] rounded-2xl'>
                         <div className='text-[25px]  lg:text-[30px] font-bold text-xl text-center underline mt-16 text-white pt-8'>Article of Web Designing
                         </div><br />
                         <div className='text-[17px] text-white mx-4 '>
@@ -116,7 +116,7 @@ const Articles1 = () => {
                     <div className='absolute -z-10'>
                         <img src="/Arti01.jpg" alt="" className='lg:h-[1380px] lg:w-screen w-[98%] h-[2850px] rounded-2xl mt-16 ' />
                     </div>
-                    <div className='bg-black bg-opacity-40 lg:h-[1380px] lg:w-[1024px] w-[98%] h-[2850px] rounded-2xl'>
+                    <div className='bg-black bg-opacity-40 lg:h-[1380px] lg:w-screen w-[98%] h-[2850px] rounded-2xl'>
                     <div className='text-[25px]  lg:text-[30px] font-bold text-xl text-center underline mt-16  text-white pt-8 mx-4 lg:mx-0'>Unveiling the Magic of Graphic Design
                     </div><br />
                     <div className='text-[17px] mx-4 text-white'>
